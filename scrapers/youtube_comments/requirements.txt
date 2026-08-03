@@ -1,0 +1,12 @@
+# Search (no API key) — update often, YouTube changes frequently:
+#   pip install -U yt-dlp
+yt-dlp>=2024.1.1
+
+# Comment extraction (no API key) — talks to YouTube's own internal endpoints:
+youtube-comment-downloader>=0.1.78
+
+# Dedup-on-resume reads the output CSV back in with pandas:
+pandas>=2.0
+
+# Progress bars:
+tqdm>=4.66

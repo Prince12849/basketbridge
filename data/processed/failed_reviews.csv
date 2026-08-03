@@ -1,0 +1,324 @@
+review_id,source,rating,date,review_text,relevant,reason,confidence
+855,appstore,5.0,,Blinkit has all the things i wanted it is a very nice thing,True,Discusses product availability and meeting user shopping needs.,0.9
+856,appstore,5.0,,"Blinkit is actually super good because it delivers things on time, and it can actually be called as India’s last moment delivery app and everything is available unlike Zepto and it and only like hardly a few things are not there, and I would recommend that you should add a more couple of things in there and it would be the best",True,"Discusses product availability, last-minute shopping behaviour, and comparison with competitors.",0.94
+858,appstore,4.0,,Please increase ur blinkit stores in chhatarpur mp,True,Discusses store/service availability affecting purchase barriers.,0.9
+860,appstore,1.0,,This is the 2nd time and the cashback coupon has not worked at all. It kind of feels like scam to put such a coupon option.,True,Discusses cashback coupons and offers affecting purchase decisions.,0.92
+861,appstore,1.0,,No cash on delivery available most time,True,Discusses payment method availability (COD) acting as a purchase barrier.,0.94
+864,appstore,3.0,,Price fluctuation,True,"Discusses price fluctuation, which directly impacts purchase decisions.",0.95
+865,appstore,1.0,,There is no open box delivery. I received the product in bad condition. There is no return or replacement. Executives were calling for the query and saying as per internal policies we couldn’t make any help on this.,True,Discusses product condition and return policies affecting trust and purchase decisions.,0.94
+866,appstore,5.0,,I like this app even in hurry it delivers in 10 minutes you must try it,True,Discusses user motivation and shopping behaviour during urgent needs.,0.92
+867,appstore,1.0,,The sent me a product that literally cut my face and refused to return it. Never using this again,True,Discusses product safety/quality issues and return policies affecting trust and future purchases.,0.95
+868,appstore,3.0,,High charge delivery charge handling charge etc etc taking too many charges,True,Discusses high delivery and handling charges acting as purchase barriers.,0.96
+869,appstore,5.0,,All products are good,True,Discusses product quality and satisfaction.,0.85
+871,appstore,5.0,,Boon for Seniors. So far they’ve been good with refunds and returns. Well done. Keep it up!,True,Discusses user segment and trust in refund/return policies.,0.88
+876,appstore,1.0,,"In store employees are cancelling hotwheels orders which are rare 
+It says cancelled due to technical issues - some sheet 
+Reputed and premium app but fraud employees",True,Discusses order cancellation of rare items (Hotwheels) due to technical issues affecting purchase decisions and trust.,0.88
+880,appstore,1.0,,Prices are high of the same item compared to other apps,True,"Discusses high item prices compared to other apps, affecting purchase decisions.",0.94
+882,appstore,1.0,,This app scammed me .i order 10 items and they gave me 9 and now after tell them thay are not even accepting it that they gave me less item. I got scammed,True,Discusses missing items and trust in products/platform affecting repeat purchases.,0.89
+883,appstore,1.0,,"They never return a product, it has been a few times now",True,Discusses return policies impacting trust in products and purchase decisions.,0.91
+884,appstore,5.0,,Veryy usefull when stuck in any bad condition,True,Discusses user motivations and use cases for the quick commerce platform.,0.85
+887,appstore,2.0,,App lags while searching and takes 30 -40 sec to come up items  that are searched,True,Discusses search experience and app performance while searching for items.,0.98
+888,appstore,5.0,,"You are a life saver. I tried multiple shops for printing my exam sheet for tomorrow morning. Being Sunday, none of the printing shops were opened.",True,Highlights user motivations and emergency use cases for the service.,0.92
+889,appstore,1.0,,Light is Not working and the frame is damaged.,True,Discusses product quality and damaged items affecting trust in products.,0.93
+1342,reddit,62.0,2026-02-09T11:21:46+00:00,"Whenever I order from Zepto, it feels like I’ve signed up for a character-building workshop I never asked for. I placed an order at 3:55. It’s 4:45. Still nothing. I reached out the delivery guy 15 fricking times. And he had this audacity to say aapka order paid ya paise doge ? I was like bc lekr toh aaaa
+
+And when I try to contact support? That robot pops up like, “I know you want to connect, how can I help you?” Bro, if you know, then CONNECT ME. Don’t gaslight me with automated empathy.
+
+Every single time I convince myself, “Maybe today will be different.” It’s never different. It’s the same cycle: hope → delay → chatbot therapy session → regret.
+
+At this point, I’d happily pay ₹30 extra on Blinkit and actually get my stuff on time. Peace of mind has a price, and apparently it’s ₹30.
+
+Anyone else stuck in this toxic relationship with grocery apps or is it just me?",True,"Discusses purchase barriers, app choice based on service quality, and shopping preferences between platforms.",0.95
+1343,reddit,5.0,2026-02-08T16:48:45+00:00,"Lately I’ve noticed most of my money leaks into small things — random café visits, impulse shopping, and frequent Blinkit orders. Individually they feel harmless, but by the end of the month… 💸
+
+I don’t want to go full monk mode, just looking for simple, realistic tricks that actually work in daily life.",True,"Discusses shopping behaviour, impulse shopping, and spending patterns on Blinkit.",0.98
+1344,reddit,2.0,2026-02-06T23:05:02+00:00,If I'm ordering zepto or blinkit at an unusual hour (like rn it's 4:30 in the morning) am I disturbing someone or helping the delivery guy who works night shifts ?,True,Discusses late-night shopping habits and motivations on quick-commerce apps.,0.93
+1345,reddit,3.0,2026-02-05T10:19:29+00:00,"Just noticed that a plant-based protein brand called Nufyt is now available on Blinkit in Gurugram.
+
+They have a trial pack, which is nice if you don’t want to commit to a full tub right away. I ordered it today. I made a blueberry smoothie from it. It was amazing. 
+
+Sharing here in case anyone else in Gurgaon is trying plant protein or looking for lighter options. Sharing the link here - Check out this product on blinkit-Nufyt Plant Protein Sachets https://blinkit.com/prn/x/prid/739719",True,"Discusses product discovery, new category exploration, and trying trial packs on Blinkit.",0.98
+1349,reddit,1.0,2026-01-15T19:34:21+00:00,"New to the sub. Honestly, sardi mein rajai se nikalne ka mann nahi hota, par PhonePe ungliyon pe chalta rehta hai. ❄️
+
+I’ve realized I’ve started ghosting my own transaction history. Payment karne ke baad I just skip the summary immediately. Aur month-end pe jab history check karne ka dimaag banta hai, toh wo 50-100 transactions ki lambi list dekh ke hi maut aati hai. It’s so overwhelming that I just close the app and forget about it. 😭
+
+Alas itna hai ki main road p supermart ki doori ke liye bhi rapido kar lo, ya roz raat ko Blinkit se kuch badhiya garam garam mangwa lo. I know I need to be more aware, but the effort of going through that messy history list feels like a chore.
+
+**Bas ye bata do, am I alone in this?**
+
+1. Ek transaction batao jo iss thand mein ""faltu"" kardi just because of laziness? (Mine: Ordering ₹200 gulab jamun with my homies ) 🤡
+2. History check karne mein itna darr ya alas kyun aata hai? Is it the fact that there are way too many small transactions to track at once?",True,"Discusses shopping behaviour, impulse purchases, and late-night ordering motivations on Blinkit.",0.95
+1351,reddit,1.0,2026-01-12T06:00:05+00:00,"Hey guys,
+I live in Delhi and there are a lot of stray cats around my building/entrance.
+
+I LOVE cats but I can’t adopt because my mom is terrified of them 😭 so I just feed the strays.
+
+Till now I’ve been giving them diluted milk, but I know milk isn’t good for cats + they keep meowing like they’re still hungry, so I want to start feeding them properly.
+
+Also I’m vegetarian and get an ick with meat smell/touch 😭 so anything that’s easy to handle (like just pouring into a bowl) would be perfect.
+
+If anyone here feeds strays in Delhi/India, please recommend some good cat food options available online (Amazon/Flipkart/Blinkit etc) that I can easily transfer into a bowl. Also would love suggestions for a sturdy bowl that won’t tip easily and is easy to clean.
+
+Thanks!!",True,Discusses product discovery and searching for pet food options on Blinkit.,0.96
+1352,reddit,0.0,2026-01-11T20:48:14+00:00,"I don't know how &amp; What kind of steel balls you delhi folks have - I went to delhi for the indus food expo 2026 2 days back &amp; God this city is so toxic aur condition was so bad I felt like inhaling something which will kill me within a day itself. 
+
+I have some breathing issues normally but in delhi I felt like I was fighting for my survival. My eyes are burning even now - after 2 days too. Couldn't inhale any air &amp; my Idiot brain didn't even ordered an N95 MASK from blinkit or zepto. I am so embarassed with myself that i didn't order the mask for my own safety. To the folks who are getting swayed by political parties &amp; saying it isn't polluted ( Ok pray by god's grace you end in that has chamber &amp; Your next generations will have a parent they will abuse with pleasure).
+
+Didn't knew I will end up getting sick so much - Couldn't eat - drink anything at all. 
+
+Literally had to leave Delhi for the sake of my own survival &amp; I will request everyone who is living in Delhi - Please for the sake of your loved ones ( WEAR MASK - NO MATTER what government says ) - situation is worst that you can imagine. 
+
+I went to interact with the expo vendor's as i wanted to start my grocery business in my hometown in ( uttarakhand) but had to leave &amp; Spend 12000 rupees &amp; couldn't get my value which i should have acquired. 
+
+I know i should have ordered the mask before hand or in Delhi itself but - So say the least - Less oxygen to brain does have an effect on it. 
+
+To all my fellow brothers &amp; sisters - PLEASE TAKE IT SERIOUSLY wear mask no matter what &amp; if you have kids &amp; older parents ( make sure they wear it all the times) everyone who is in the radius of Delhi NCR ( delhi - ghaziabad - gurgaon - noida - all cities nearing delhi) have same bad condition ( the expo was in greater Noida - India Expo mart &amp; I'll give you some tea that i left within 6 hours to save my life from that situation. 
+I humble request from your fellow brother 🙏🙏🙏",True,Discusses emergency product availability (masks) and search behaviour on quick-commerce apps.,0.94
+1353,reddit,1.0,2026-01-03T10:43:30+00:00,"If I lose my card , then the first thing would be to block using the Airtel thanks app, I want to know how can I get my remaining balance back in such a case , can I use the remaining balance to transfer it to a new card or it will be lost forever 
+Another thing if I block my card , can I make payments from it like for other purposes such as for blinkit or at other quick e commerce platforms to use that balance ?",True,Discusses payment usage and usability of card balances on quick e-commerce platforms like Blinkit.,0.92
+1354,reddit,0.0,2026-07-13T17:31:22+00:00,What happened to Diet Coke it’s not available on Zepto Blinkit and went from Worli to Juhu on the way and it wasn’t available on even one store,True,Discusses product availability and stock issues for specific items across quick commerce platforms.,0.97
+1355,reddit,2.0,2026-06-18T07:26:00+00:00,"I'm looking to naturally boost my Vitamin B12 levels through my diet and want to find the best egg varieties available for it.
+
+Do choices like pasture-raised, organic, free-range, cage-free, or omega-3 enriched eggs generally pack better B12 content than commercial regular eggs?
+
+Since I'm ordering in Powai, what specific brands known for high nutrition or quality feed do you guys recommend checking out on quick-commerce apps? Want to make sure whatever brand I pick is consistently available in the local dark stores here.",True,"Discusses product discovery, quality, and availability of specific food categories on quick-commerce apps.",0.96
+1356,reddit,6.0,2026-06-12T10:54:25+00:00,"I'm from Goa and we had supermarkets like Delfinos or Magsons that i used to frequent for everything under one roof. From fresh bakery items, to household stuff, to kitchen essentials and produce to alcohol and meats. Used to be affordable too. Been living in Parel for close to 3 years now and am yet to find a decent supermarket close by where I can go for monthly groceries. 
+
+People around me heavily rely on blinkit, swiggy and zepto. Or to the local pharmacies that stock some food too.
+
+The only ones that come to mind are Avarya but thats just for food. Or super expensive ones which sell only gourmet things
+
+Please suggest some good supermarkets nearby for monthly groceries, and relaxing affordable fun shopping",True,Discusses shopping behaviour and heavy reliance on Blinkit versus physical supermarkets.,0.95
+1357,reddit,3.0,2026-06-09T13:27:40+00:00,"Noticed this nearly 10th time ordering products from Zepto and Blinkit in Mumbai, both blinkit and zepto deliver damaged products..  
+This happens specially with ice-creams.. or any other cook quick food items.
+
+Received products which were melted  
+Box had black grease all over  
+Opened products  
+Not packed products.
+
+The quality of products from these companies has become a sewage now, in an urge to delivery quickly..",True,"Discusses product quality, damaged items upon delivery, and trust issues with quick-commerce platforms.",0.97
+1359,reddit,316.0,2026-05-16T07:00:41+00:00,"had actually ordered noodles from Blinkit. But when the delivery arrived, it clearly wasn't my order. It was some random pack of noodles that brand but smaller pack like 1/5th
+
+And yes the package had extra items like a sugar sachet and even a free wet tissue trial pack nothing like what I ordered.
+
+When i opened it I saw it's not what i wanted raised a complaint under 5 minutes and got the refund and an apology
+
+Next morning, i was at work
+
+He came back to our house up to our floor and said he gave me the wrong order and the original customer has cancelled and now WE have to pay for it.
+
+We refused, because this wasn't our mistake. I geneuinely felt bad for him wanted to help him out
+
+Told the blinkit executive to not deduct his money because he probably got confused
+
+Or the blinkit store packer did some mistake
+
+I tried my best to help him
+
+He came the next night took the packet of the wrong noodles we had opened the sugar packet
+
+I would like to add that blinkit said i could keep both
+
+the noodles and sugar packet
+
+But i gave back the wet tissue trial pack and the pack of noodles
+
+He took them
+
+Said store manager said this is not enough
+
+And is deducting his money
+
+He came to our house thrice.
+
+After that, the calls started. His friend or brother he claims this guy that called is a small manager in blinkit
+
+And he began calling me repeatedly. He was using rude called me a thief, constantly pressuring me to pay. They have our number.of two of my family members. They know exactly where we live, they came thrice and not even once had to ask where we live they are well through with where we live now
+
+I got so scared talked to blinkit they said block both these guys but again
+
+How could I do that
+
+They know so much
+
+My parents already don't like the idea of this modern ordering stuff online thing and like this will create a whole issue i can't tell anyone
+
+At that point it stopped feeling like a delivery issue and started feeling like harassment.
+
+My parents already don't like the idea of this modern ordering stuff online thing and like this will create a whole issue i can't tell anyone
+
+At that point it stopped feeling like a delivery issue and started feeling like harassment.
+
+Out of fear and just wanting this to end, I gave him ₹500 from my own pocket.
+
+And now I feel awful about it.
+
+I'm scared he might come back again or keep calling. He already has access to my number and even another family member's number.
+
+I want my ₹500 back because this was clearly not my fault-but I'm honestly scared to escalate this because he knows where we live.
+
+This whole situation has made me feel unsafe in my own home over a WRONG delivery which was not even my fault.
+
+⭐ Edit: I reported it to blinkit they fired the guy I'm so scared that he will do something wrong to me he knows the address by heart two numbers of the house he didn't even require help reaching the house I am so scared i can't contact authorities at all and I'm scared by the time i do",True,"Discusses severe delivery errors, wrong product delivery, trust, and safety issues affecting shopping behaviour.",0.96
+1361,reddit,2.0,2026-05-10T05:52:14+00:00,Where can I find thick sliced milk bread/white sandwich bread similar to Japanese shokupan. Can't find it on Zomato or blinkit. Any leads would be appreciated 🙏,True,"Discusses product discovery, search experience, and unavailability of specific bread types on Blinkit.",0.97
+1362,reddit,93.0,2026-04-27T11:59:48+00:00,"27 April, Morning - I was visiting Mumbai for a day and found a stray Kitten on the roadside (besides footpath) near Mahalaxmi station exit on the Dr. E Moses Road, exactly opposite to Petzone Clinic/shop.
+
+The Kitten looked to be in very poor condition, very thin and chewing on some wood waste out of hunger I guess, with no mother cat in sight. 
+
+Fed the cat some baby cat food (Whiskas Jr.) from Blinkit and then I had to leave for work. 
+
+If you know some animal rescue/adoption centres or people leaving nearby can check/adopt the little guy, it would probably save a baby's life. 
+
+I have already left the city. Requesting any good samaritans in Mahalaxmi area to have a look. 
+
+Thank you 🙏.
+
+Petzone shop location (Kitten is laying around, exactly opposite to it): https://maps.app.goo.gl/kv4RHUw15AtZbP7F6",True,Discusses product usage and ordering pet food via Blinkit for an emergency rescue.,0.94
+1363,reddit,2.0,2026-04-23T16:39:31+00:00,"hey mumbaikars!
+
+so i just got my first job offer as a software engineer and honestly feeling both excited and scared lol. the package is 50k per month and i'll be working in andheri.
+
+i found a 1rk flat in ghatkopar (150 sq ft) which is pretty close to the station. the rent is 16k but its shared between me and another colleague so i pay 8k. they said its a decent society and locality is safe.
+
+now here's where i need your help -
+
+**budget:** after 8k rent from 50k, i have 42k. my parents are saying save at least 15-20k but is that realistic in mumbai? what should be my monthly budget for:
+
+* food (i can cook basic stuff but will probably order a lot initially)
+* metro travel
+* going out on weekends
+* gym maybe?
+* other random expenses i'm not thinking of
+
+**savings:** where should i even put the money? fd? mutual funds? my friends are saying start sip but i have literally zero knowledge about this stuff. should i just stick to savings account for now?
+
+**society/flat doubts:**
+
+* is 150 sq ft 1rk actually livable for 2 people or will we kill each other in 3 months
+* what questions should i ask about the society before moving in
+* any red flags to watch out for
+
+**general survival tips:**
+
+* best places to eat cheap in ghatkopar/andheri
+* how much does eating out usually cost
+* is blinkit/swiggy instamart worth it or just burns money
+* best way to make friends (i'm not from mumbai, dont know anyone)
+* any apps or services that are must-have for mumbai life
+
+**also random questions:**
+
+* health insurance - company is giving some but should i get additional
+* is 50k ctc good for a fresher in 2025 or am i getting lowballed
+* how do people even save for future when rent + expenses eat up everything
+
+i know this is a lot but genuinely feeling overwhelmed. any advice from people who've done this before would be amazing.
+
+thanks in advance!",True,"Discusses budgeting for living expenses and whether quick commerce apps like Blinkit burn money, influencing shopping behaviour.",0.93
+1365,reddit,1044.0,2026-03-19T12:34:30+00:00,"I built a map of Blinkit, Zepto, and Instamart dark stores across India using public app data and location inference.
+
+Patterns i noticed:
+
+\- The total footprint looks much larger than commonly discussed
+
+\- Metro areas are extremely dense
+
+\- There’s a lot of overlap between players in the same zones
+
+I’m sharing it here because I think it’s a useful view of how quick-commerce infrastructure is actually distributed.
+
+Map : [https://darkstores.vercel.app/](https://darkstores.vercel.app/)
+
+Writeup if anyone is interested in technical details: [https://jatin-dot-py.medium.com/how-i-scraped-most-dark-stores-in-india-blinkit-zepto-swiggy-instamart-ad939ff17af9](https://jatin-dot-py.medium.com/how-i-scraped-most-dark-stores-in-india-blinkit-zepto-swiggy-instamart-ad939ff17af9)",True,Discusses dark store infrastructure and density mapping for quick-commerce platforms.,0.91
+1366,reddit,110.0,2026-03-17T18:43:17+00:00,"​TL;DR
+​After 5 years of loyalty, Amazon India’s service has tanked since I dropped Prime in October 2025. I’m facing a recurring issue where prepaid orders are marked ""Handed to Resident"" but never actually arrive. I’m not looking for legal advice, but rather to warn others and find out if this logistics ""lie"" is a widespread trend. If this happens 5 more times in the next 3 months, I’m deleting my account for good.
+
+---------------------------------------------
+
+The Issue:
+
+I’ve recently faced multiple incidents with Amazon India that have caused significant mental harassment and wasted my time. The specific pattern is alarming: my orders are marked as ""Handed to Resident,"" yet nothing was ever delivered to me.
+
+Background Context:
+
+ * The Prime Factor: I was a loyal Prime member for 5 years. Since discontinuing Prime in October 2025, these delivery failures have started happening frequently.
+
+ * Location: I reside in a major Metro city, where logistics should be most reliable.
+
+ * Payment Habits: I have always preferred advance payments over COD for every platform (Flipkart, Zepto, Blinkit, Zomato, etc.). While I still trust other platforms with advance payments, Amazon India has forced me to rethink this ""Always Advance"" policy.
+
+My Stance:
+
+I’m sharing this to spread awareness. I have no interest in the long, drawn-out process of consumer forums or legal courts for these specific orders; I simply want to highlight the decline in service quality.
+
+However, I have a ""three-strike"" rule in mind: if similar incidents happen five more times in the next three months, I will be permanently deleting my Amazon India account.
+
+Attached Images:
+
+I’ve uploaded 3 screenshots of my recent ""failed"" deliveries where the status falsely claims the package was handed to me.
+
+I want to know:
+
+ * Has anyone else experienced this ""Handed to Resident"" ghost delivery recently more frequently?
+
+ * Since I’m not looking for a legal route, what are the best ways to actually get their leadership's attention or ""teach them a lesson"" regarding these logistics lies?",True,"Discusses payment habits, trust, and switching platforms due to delivery failures.",0.93
+1367,reddit,318.0,2026-03-16T15:07:49+00:00,"Yesterday I ordered yoghurt from Blinkit and received puffed packs. Obviously unsafe, obviously not normal. I reported it and got a refund.
+
+Today I ordered the same yoghurt again. This time the packs were clearly punctured — like someone had made small holes in them to release the gas and hide the puffing. So instead of discarding bad stock, it looks like they may have tampered with the packaging and sent it out anyway.
+
+This is not “oops damaged in transit.” This is not “packaging issue.” This is a dairy product arriving in a condition that looks like someone interfered with it to make spoiled stock look sellable.
+I contacted Blinkit and got the usual useless customer support script plus refund. No serious acknowledgement of the fact that this looks like a food safety issue and possible tampering.
+
+
+So apparently the standard is:
+Day 1: send puffed yoghurt
+Day 2: poke holes in it and send it anyway
+Then hide behind refund templates
+
+I have photos of the punctured packs and the order history from both days.
+
+Posting this because a refund is not the point anymore. The point is that if this is what they’re doing with yoghurt, what else are they doing with other perishable items?
+
+Tldr: If you order yoghurt from blinkit pls check the lid for holes, these crooks are selling puffed yoghurt packs which aren't supposed to be sold by making hole in them to remove puffing",True,"Discusses product quality, food safety, tampering of perishable items, and erosion of trust in Blinkit.",0.99
+1368,reddit,1.0,2026-03-08T10:24:17+00:00,"Hi Mumbaikars, I have a dear one, who recently moved to Mumbai,  I want to send a women's day surprise to. Flowers and maybe a card or something.
+
+FnP is not delivering same day. Zepto, Blinkit, Swiggy all have those dried flowers or crochet flowers only
+
+Any suggestions on how I can make this happen?",True,Discusses product availability and limitations of quick commerce platforms for specific gifting categories.,0.96
+5496,reddit,1.0,2026-02-22T15:00:08+00:00,prices ain't matching,True,Discusses price mismatches which directly affect purchase decisions.,0.95
+5505,reddit,2.0,2026-02-19T17:42:57+00:00,"Try bisleri app, you can order or subscribe for weekly deliveries",True,Discusses subscription and ordering behavior for household water delivery.,0.9
+5508,reddit,1.0,2026-02-19T18:18:39+00:00,"I use bisleri app for water cans. I have 2 cans and i order once i complete a can. Typically they deliver the next day or in 2 days. 
+
+First you need to pay something around 250 for a can and from the subsequent orders it is 100rs per can.
+
+I live in a rented house and i dont have a water purifier option and i didn't find any good local water can supplier.",True,"Explains user motivations, shopping behavior, and repeat purchases for water cans due to lack of local alternatives.",0.96
+5509,reddit,1.0,2026-02-19T19:00:16+00:00,Bisleri App. They deliver mostly next day.,True,Discusses ordering frequency and delivery timeline for water apps.,0.85
+5513,reddit,1.0,2026-05-26T07:27:33+00:00,"I’m living in TNGO for the last 2 years. I’m not sure if you got it t solved, But there’s 1 RO plant in the Blinkit Dark store road. You can fill 20 litres for 20 rupees. Also, they deliver as well but delivery charges seperate. 
+We did like that for some days and afterwards we opted for drink prime.",True,"Discusses finding local RO plants near Blinkit dark store and evaluating alternatives, affecting purchase decisions.",0.9
+5517,reddit,1.0,2026-07-02T05:16:34+00:00,It’s really nice bro… been using it nearly a year no complaints whatsoever. Filters very effectively. DM if need referral… just make sure you recharge on time and you’re good to go,True,Discusses ongoing repeat subscription usage and trust in service.,0.85
+5522,reddit,15.0,2026-02-19T07:39:53+00:00,Why are you guys ordering again and again??it’s been established that Zepto is the worst!! This is on you only for ordering from an app which is know to be really bad,True,Discusses user motivations and repeat purchases based on platform reputation.,0.9
+5523,reddit,3.0,2026-02-19T07:52:39+00:00,I thought to give them a chance since they backed down from their practices of dark patterns and hidden charges. And then realised that their customer service hasn't improved. Learnt my lesson not to trust Zepto again.,True,"Explains how past dark patterns, hidden charges, and customer service failures affect trust and lead to the decision to stop using a platform.",0.98
+5524,reddit,13.0,2026-02-19T07:00:49+00:00,Order on blinkit or insta mart much better customer supports,True,"Recommends switching platforms based on customer support quality, directly affecting platform choice and purchase decisions.",0.95
+5525,reddit,9.0,2026-02-19T07:31:24+00:00,"Don't fall for thier no delivery charge/platform fee.
+
+
+They have the worst service.",True,Discusses hidden fees and service quality that act as purchase barriers and break trust.,0.95
+5532,reddit,2.0,2026-02-19T08:32:36+00:00,"I don't trust any Delivery Apps especially for Grocery, Fruits and Vegetables. 
+
+For food, yes sometimes i do, but still i always prefer to go and pick my food from any restaurants.
+
+I too have received soiled Packaged items like Milk, Wheat, Sugar, Milk Powder to name a few and sometimes they return partially and sometimes they ignore. So i started to spend some time visiting shops to buy essential once a week or month.",True,"User discusses trust in grocery delivery apps, quality issues with essentials, and purchase decisions to visit physical shops instead.",0.98
+5534,reddit,2.0,2026-02-19T10:27:23+00:00,"Blinkit is the best in this segment, they have a variety of product selections, prices are fair and the customer support is really good. I never faced any major issue with blinkit until now. Zepto on the other hand is nasty. They have sent expired food products so many times now that I've lost count. Uninstalled it for good.",True,"Discusses product selection, fair pricing, and trust issues due to expired products affecting repeat purchases and platform choice.",0.96
+5535,reddit,2.0,2026-02-19T11:51:18+00:00,"Ahh bro same shit yesterday, they delivered expired greek yoghurt and now are denying replacement and also no refund..idk there is some pressure on the customer service team to reduce the fake refunds thing..and they are even gaslighting me saying that I might have replaced it..and at the end they asked me why did I share the otp to them without checking..I generally check the number of items but yesterday I learnt a lesson:(",True,Discusses trust in products due to expired items and poor customer service handling affecting purchase decisions.,0.9
+5538,reddit,2.0,2026-02-19T12:32:47+00:00,If you order by frequency the use BBDaily,True,Recommends a specific platform based on order frequency and user motivations.,0.94
+5540,reddit,1.0,2026-02-19T07:58:53+00:00,"The packs are soiled, crushed, straws are missing. I could only find 2/3 straws lying loose for a pack of 6.
+
+I just asked for a replacement, which they denied saying the packs are ""intact""",True,Discusses damaged and missing product packaging issues affecting product trust.,0.88
+5542,reddit,1.0,2026-02-19T09:00:27+00:00,"Yeah, their pov is anything that's profitable for them. Which comes at the cost of customer's trust and frustration.",True,Discusses how poor practices impact customer trust.,0.85
+5543,reddit,1.0,2026-02-19T08:56:13+00:00,BB and Amazon fresh are good.,True,Provides platform recommendations based on preference.,0.91
+5548,reddit,1.0,2026-02-19T13:15:17+00:00,No advice about Zepto but you should try Akshaykalpa spiced buttermilk over amul. Far superior in taste imo.,True,Provides specific product recommendations and taste comparison.,0.96
+5573,reddit,4.0,2026-02-17T08:33:03+00:00,Parledu babu. Ekkada dorukutado online telusa?,True,User is asking where to find/buy a specific food item online (product discovery / availability).,0.95
+5574,reddit,3.0,2026-02-17T08:34:33+00:00,"Bigbasket lo unnai,
+Sunfeast bounce and Tiger elaichi one",True,Discusses product availability and discovery on a specific platform.,0.96

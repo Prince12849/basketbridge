@@ -1,0 +1,33 @@
+product_id,product_name,category,subcategory,brand,price,discounted_price,rating,rating_count,trust_signal,description,pairs_with
+P001,Full-Cream Milk,Groceries,Dairy,DailyDairy,68,62,4.5,1800,Trusted everyday brand,Full-cream milk for tea cereal and everyday use.,cereal;tea;bread
+P002,Whole Wheat Bread,Groceries,Bakery,Harvest,55,49,4.4,2100,Freshness information shown,Soft sliced whole wheat bread for breakfast and snacks.,cheese;eggs;peanut butter
+P003,Farm Eggs (6 pack),Groceries,Eggs,Sunrise Farms,72,72,4.6,3200,High repeat-purchase rating,Fresh brown eggs in a convenient six-piece pack.,bread;cheese;atta
+P004,Classic Potato Chips,Snacks & Beverages,Chips,CrispCo,40,35,4.3,5400,Popular snack with ratings,Lightly salted potato chips for sharing or snacking.,dips;soft drinks;salsa
+P005,Sparkling Cola,Snacks & Beverages,Soft Drinks,FizzUp,45,39,4.2,3900,Recognisable beverage brand,Chilled sparkling cola for meals and snack occasions.,chips;cheese;peanuts
+P006,Long Grain Rice,Groceries,Staples,GrainHouse,120,109,4.5,1600,Quality-checked staple,Everyday long grain rice for quick home meals.,atta;eggs;curd
+P007,Chakki Atta,Groceries,Staples,MillFresh,265,239,4.4,1200,Trusted household staple,Whole wheat flour milled for everyday rotis and baking.,eggs;curd;milk
+P008,Cheddar Cheese,Groceries,Dairy,CheeseCraft,145,129,4.6,2300,Highly rated dairy product,Mild cheddar slices for toast sandwiches and snacks.,bread;chips;crackers
+P009,Plain Curd,Groceries,Dairy,DailyDairy,65,59,4.3,1400,Trusted everyday brand,Creamy plain curd for meals breakfast and marinades.,rice;atta;chips
+P010,Oat Cookies,Snacks & Beverages,Biscuits,BakeDay,85,75,4.4,1900,Well-reviewed snack,Crunchy oat cookies for tea-time snacking.,tea;milk;coffee
+P011,Salted Peanuts,Snacks & Beverages,Snacks,NutNest,70,58,4.1,1100,Value snack with ratings,Roasted salted peanuts in a resealable pouch.,chips;soft drinks;cola
+P012,Mango Juice,Snacks & Beverages,Juices,SunSip,95,79,4.2,1700,Popular family beverage,Fruit drink for breakfast and snack-time refreshment.,chips;bread;cookies
+P013,Avocado Dip,Dips & Spreads,Dips,FreshFork,149,99,4.6,2300,Highly rated accompaniment,Ready-to-serve avocado dip with a creamy mildly spiced flavour.,chips;bread;cheese
+P014,Classic Hummus,Dips & Spreads,Spreads,MezzeHouse,129,89,4.7,3100,Strong ratings and clear ingredients,Creamy chickpea hummus for dipping and spreading.,chips;bread;cheese
+P015,Tomato Salsa,Dips & Spreads,Dips,FiestaFresh,110,85,4.5,1800,Highly rated snack pairing,Chunky tomato salsa with a mild heat level.,chips;cheese;nachos
+P016,Gentle Face Wash,Personal Care,Skincare,GlowKind,199,159,4.5,4200,Trusted personal-care brand,Gentle daily face wash for normal and combination skin.,shopping mission;self care
+P017,Daily Shampoo,Personal Care,Hair Care,SilkRoot,249,199,4.4,3600,Popular brand with reviews,Everyday shampoo for clean soft hair.,personal care;travel;self care
+P018,Foaming Hand Wash,Personal Care,Hand Care,ClearHands,135,99,4.3,2700,High repeat-purchase rating,Quick-commerce friendly hand wash refill for daily use.,household essentials;soap
+P019,SPF Lip Balm,Personal Care,Lip Care,SunShield,180,139,4.6,1500,Clear SPF information,Moisturising lip balm with SPF for daily use.,personal care;travel
+P020,Dishwash Liquid,Household Essentials,Kitchen Care,ShineHome,155,119,4.4,2500,Trusted household brand,Concentrated dishwash liquid for everyday kitchen cleaning.,groceries;household essentials
+P021,Laundry Detergent,Household Essentials,Laundry,CleanNest,320,279,4.5,2800,High repeat-purchase rating,Powerful detergent for regular machine or hand washing.,household essentials;home care
+P022,Garbage Bags,Household Essentials,Waste Management,NeatHome,99,79,4.2,900,Practical everyday product,Strong medium-size garbage bags for kitchen waste.,household essentials;cleaning
+P023,Multipurpose Surface Cleaner,Household Essentials,Surface Care,ShineHome,180,149,4.3,1300,Recognisable cleaning brand,Fresh-scented cleaner for kitchen counters and hard surfaces.,household essentials;cleaning
+P024,Soft Baby Wipes,Baby Care,Baby Hygiene,LittleCloud,180,149,4.7,5200,Strong ratings from parents,Fragrance-free baby wipes for gentle everyday cleaning.,baby care;travel
+P025,Comfort Baby Diapers,Baby Care,Diapers,LittleCloud,499,429,4.6,4100,Trusted baby-care brand,Absorbent diapers with a soft fit for overnight comfort.,baby care;new parents
+P026,Chicken Dog Treats,Pet Care,Dog Treats,PawBites,220,179,4.5,1700,Clear ingredients and ratings,Training treats made with chicken for adult dogs.,pet care;dog supplies
+P027,Clumping Cat Litter,Pet Care,Cat Supplies,WhiskerHome,399,349,4.4,1200,Product information clearly listed,Low-dust clumping litter for indoor cats.,pet care;cat supplies
+P028,Vitamin C Tablets,Health,Vitamins,WellSpring,220,185,4.4,2600,Ingredient information shown,Daily vitamin C tablets in a small trial-size bottle.,health;wellness
+P029,ORS Hydration Sachets,Health,Hydration,HydraPlus,120,99,4.6,3300,Clear usage information,Oral rehydration sachets for convenient hydration support.,health;travel
+P030,Ruled Notebook,Stationery,Notebooks,WriteWell,95,75,4.3,800,Simple product details,Compact ruled notebook for lists notes and planning.,stationery;home office
+P031,Quick-Dry Gel Pens,Stationery,Writing,WriteWell,120,99,4.5,1100,Well-reviewed everyday stationery,Set of smooth quick-dry gel pens in assorted colours.,stationery;notebook
+P032,USB-C Fast-Charge Cable,Electronics,Charging,ConnectPro,299,249,4.4,2900,Compatibility information shown,Braided USB-C cable for compatible phones and accessories.,electronics;urgent replacement

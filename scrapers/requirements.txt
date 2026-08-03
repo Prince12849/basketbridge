@@ -1,0 +1,8 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+tqdm>=4.66.0
+lxml>=5.0.0
+
+# Optional - only needed for the last-resort Playwright fallback.
+# Install with: pip install playwright && playwright install chromium
+playwright>=1.44.0
