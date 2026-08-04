@@ -34,15 +34,174 @@ def _inject_styles() -> None:
     st.markdown(
         """
         <style>
-        .stApp {
-            background: #fffdf5;
+        :root {
+            color-scheme: light !important;
+            --bb-cream: #fffdf5;
+            --bb-card: #ffffff;
+            --bb-sidebar: #f5ffe8;
+            --bb-ink: #143c22;
+            --bb-charcoal: #1f2933;
+            --bb-muted: #5d6b5f;
+            --bb-border: #e5e8d3;
+            --bb-green: #16853b;
+            --bb-green-soft: #e3f6bd;
+            --bb-coral: #df6a5e;
+            --bb-blue-bg: #e8f1ff;
+            --bb-blue-ink: #1f4f85;
         }
-        [data-testid="stSidebar"] {
-            background: #f5ffe8;
-            border-right: 1px solid #d8e9b8;
+        html,
+        body,
+        .stApp,
+        [data-testid="stAppViewContainer"],
+        [data-testid="stMain"] {
+            background: var(--bb-cream) !important;
+            color: var(--bb-charcoal) !important;
+        }
+        [data-testid="stHeader"],
+        [data-testid="stToolbar"],
+        [data-testid="stDecoration"] {
+            background: var(--bb-cream) !important;
+            color: var(--bb-ink) !important;
+        }
+        [data-testid="stSidebar"],
+        [data-testid="stSidebarContent"],
+        [data-testid="stSidebarUserContent"] {
+            background: var(--bb-sidebar) !important;
+            color: var(--bb-ink) !important;
+            border-right-color: #d8e9b8 !important;
+        }
+        .stApp [data-testid="stMarkdownContainer"],
+        .stApp [data-testid="stMarkdownContainer"] p,
+        .stApp [data-testid="stMarkdownContainer"] li,
+        .stApp [data-testid="stMarkdownContainer"] strong,
+        .stApp [data-testid="stMarkdownContainer"] em,
+        .stApp [data-testid="stMarkdownContainer"] h1,
+        .stApp [data-testid="stMarkdownContainer"] h2,
+        .stApp [data-testid="stMarkdownContainer"] h3,
+        .stApp [data-testid="stMarkdownContainer"] h4,
+        .stApp [data-testid="stCaptionContainer"],
+        .stApp [data-testid="stCaptionContainer"] p,
+        .stApp [data-testid="stWidgetLabel"],
+        .stApp [data-testid="stWidgetLabel"] p,
+        .stApp label,
+        .stApp [role="radiogroup"] label,
+        .stApp [role="radiogroup"] p {
+            color: var(--bb-charcoal) !important;
+        }
+        [data-testid="stSidebar"] [data-testid="stMarkdownContainer"],
+        [data-testid="stSidebar"] [data-testid="stMarkdownContainer"] p,
+        [data-testid="stSidebar"] [data-testid="stMarkdownContainer"] strong,
+        [data-testid="stSidebar"] [data-testid="stCaptionContainer"],
+        [data-testid="stSidebar"] [data-testid="stCaptionContainer"] p,
+        [data-testid="stSidebar"] [data-testid="stWidgetLabel"],
+        [data-testid="stSidebar"] [data-testid="stWidgetLabel"] p,
+        [data-testid="stSidebar"] label {
+            color: var(--bb-ink) !important;
+        }
+        div[data-testid="stVerticalBlockBorderWrapper"] {
+            background: var(--bb-card) !important;
+            border-color: var(--bb-border) !important;
+            color: var(--bb-charcoal) !important;
+        }
+        div[data-testid="stVerticalBlockBorderWrapper"] * {
+            color: inherit;
+        }
+        [data-testid="stExpander"],
+        [data-testid="stExpander"] details,
+        [data-testid="stExpander"] summary,
+        [data-testid="stExpander"] [data-testid="stExpanderDetails"] {
+            background: var(--bb-sidebar) !important;
+            color: var(--bb-ink) !important;
+            border-color: #d8e9b8 !important;
+        }
+        [data-testid="stExpander"] summary p,
+        [data-testid="stExpander"] summary span,
+        [data-testid="stExpander"] [data-testid="stMarkdownContainer"] p,
+        [data-testid="stExpander"] [data-testid="stCaptionContainer"] p {
+            color: var(--bb-ink) !important;
+        }
+        [data-baseweb="select"] > div,
+        [data-baseweb="select"] input,
+        [data-baseweb="select"] span,
+        [role="listbox"],
+        [role="option"] {
+            background: var(--bb-card) !important;
+            color: var(--bb-ink) !important;
+            border-color: #bdd5a1 !important;
+        }
+        [role="option"]:hover,
+        [role="option"][aria-selected="true"] {
+            background: var(--bb-green-soft) !important;
+            color: var(--bb-ink) !important;
+        }
+        [data-testid="stAlert"] {
+            background: var(--bb-blue-bg) !important;
+            border-color: #a9c6eb !important;
+            color: var(--bb-blue-ink) !important;
+        }
+        [data-testid="stAlert"] * {
+            color: var(--bb-blue-ink) !important;
+        }
+        [data-testid="stAlertContainer"] {
+            background: var(--bb-blue-bg) !important;
+            border-color: #a9c6eb !important;
+            color: var(--bb-blue-ink) !important;
+        }
+        [data-testid="stAlertContainer"] * {
+            color: var(--bb-blue-ink) !important;
+        }
+        [data-testid="stBaseButton-primary"],
+        button[data-testid="stBaseButton-primary"] {
+            background: var(--bb-coral) !important;
+            border-color: var(--bb-coral) !important;
+            color: #ffffff !important;
+        }
+        [data-testid="stBaseButton-primary"] *,
+        button[data-testid="stBaseButton-primary"] * {
+            color: #ffffff !important;
+        }
+        .stApp button[data-testid="stBaseButton-primary"] [data-testid="stMarkdownContainer"],
+        .stApp button[data-testid="stBaseButton-primary"] [data-testid="stMarkdownContainer"] p,
+        .stApp button[data-testid="stBaseButton-primary"] span {
+            color: #ffffff !important;
+        }
+        [data-testid="stBaseButton-secondary"],
+        button[data-testid="stBaseButton-secondary"] {
+            background: var(--bb-card) !important;
+            border-color: #9fc98d !important;
+            color: var(--bb-ink) !important;
+        }
+        [data-testid="stBaseButton-secondary"] *,
+        button[data-testid="stBaseButton-secondary"] * {
+            color: var(--bb-ink) !important;
+        }
+        .stApp button[data-testid="stBaseButton-secondary"] [data-testid="stMarkdownContainer"],
+        .stApp button[data-testid="stBaseButton-secondary"] [data-testid="stMarkdownContainer"] p,
+        .stApp button[data-testid="stBaseButton-secondary"] span {
+            color: var(--bb-ink) !important;
+        }
+        [data-testid="stBaseButton-secondary"]:disabled,
+        button[data-testid="stBaseButton-secondary"]:disabled {
+            background: #edf4e8 !important;
+            border-color: #cbdcc2 !important;
+            color: var(--bb-muted) !important;
+        }
+        [data-testid="stBaseButton-secondary"]:disabled *,
+        button[data-testid="stBaseButton-secondary"]:disabled * {
+            color: var(--bb-muted) !important;
+        }
+        .stApp input,
+        .stApp textarea {
+            background: var(--bb-card) !important;
+            color: var(--bb-ink) !important;
+            caret-color: var(--bb-ink) !important;
+        }
+        .stApp input::placeholder,
+        .stApp textarea::placeholder {
+            color: var(--bb-muted) !important;
         }
         .brand-mark {
-            color: #16853b;
+            color: var(--bb-green) !important;
             font-size: 0.82rem;
             font-weight: 800;
             letter-spacing: 0.12em;
@@ -56,64 +215,67 @@ def _inject_styles() -> None:
             margin: 0.35rem 0 1.25rem 0;
         }
         .hero h1 {
-            color: #143c22;
+            color: var(--bb-ink) !important;
             font-size: clamp(1.8rem, 4vw, 3rem);
             line-height: 1.05;
             margin: 0.35rem 0;
         }
         .hero p {
-            color: #4d5f45;
+            color: #4d5f45 !important;
             margin: 0;
         }
         .section-kicker {
-            color: #16853b;
+            color: var(--bb-green) !important;
             font-size: 0.75rem;
             font-weight: 800;
             letter-spacing: 0.09em;
             text-transform: uppercase;
         }
         div[data-testid="stVerticalBlockBorderWrapper"] {
-            border-color: #e5e8d3;
+            border-color: var(--bb-border);
             border-radius: 16px;
-            background: #ffffff;
+            background: var(--bb-card);
         }
         .price-now {
-            color: #143c22;
+            color: var(--bb-ink) !important;
             font-size: 1.05rem;
             font-weight: 800;
         }
         .price-old {
-            color: #899181;
+            color: #6c786c !important;
             text-decoration: line-through;
             margin-left: 0.35rem;
         }
         .discount-pill {
-            background: #e3f6bd;
+            background: var(--bb-green-soft) !important;
             border-radius: 999px;
-            color: #26703a;
+            color: #26703a !important;
             display: inline-block;
             font-size: 0.72rem;
             font-weight: 800;
             padding: 0.18rem 0.5rem;
         }
         .demo-note {
-            color: #667060;
+            color: var(--bb-muted) !important;
             font-size: 0.78rem;
         }
         .cart-heading {
-            color: #143c22;
+            color: var(--bb-ink) !important;
             font-size: 1.25rem;
             font-weight: 800;
         }
         .recommendation-strip {
-            background: #16853b;
+            background: var(--bb-green) !important;
             border-radius: 14px 14px 0 0;
-            color: white;
+            color: #ffffff !important;
             font-size: 0.82rem;
             font-weight: 800;
             letter-spacing: 0.08em;
             padding: 0.65rem 0.85rem;
             text-transform: uppercase;
+        }
+        .recommendation-strip * {
+            color: #ffffff !important;
         }
         </style>
         """,
