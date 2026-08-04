@@ -63,6 +63,15 @@ def _inject_styles() -> None:
             background: var(--bb-cream) !important;
             color: var(--bb-ink) !important;
         }
+        [data-testid="stHeader"] [data-testid="stToolbar"] button,
+        [data-testid="stHeader"] [data-testid="stToolbar"] a,
+        [data-testid="stHeader"] [data-testid="stToolbar"] svg {
+            color: var(--bb-ink) !important;
+        }
+        [data-testid="stHeader"] [data-testid="stToolbar"] svg {
+            fill: currentColor !important;
+            stroke: currentColor !important;
+        }
         [data-testid="stSidebar"],
         [data-testid="stSidebarContent"],
         [data-testid="stSidebarUserContent"] {
