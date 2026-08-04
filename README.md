@@ -71,10 +71,16 @@ non-urgent profiles; urgent profiles are suppressed.
 ### MVP flow
 
 ```text
-Simulated shopper profile
-        + purchase history
-        + purchased categories
-        + current cart
+Browse simulated catalogue
+        |
+        v
+Build a live shopping cart
+        |
+        + simulated purchase history
+        + historically purchased categories
+                |
+                v
+Click "Find something worth trying"
                 |
                 v
         Gemini decision engine
@@ -92,6 +98,12 @@ Simulated shopper profile
   Session event log + demo analytics
 ```
 
+The primary screen is intentionally a small shopping experience rather than an
+AI engineering dashboard. Visitors browse the simulated catalogue, add normal
+products to a live cart, and explicitly ask the AI to evaluate that basket.
+Profile presets, Control/AI Variant, and demo analytics remain secondary
+controls in the sidebar.
+
 ### Simulated data disclaimer
 
 The profiles in `mvp/profiles.py` and products in
@@ -102,7 +114,7 @@ Blinkit customer profiles, catalogue records, ratings, or production metrics.
 
 ```text
 mvp/
-    app.py            Streamlit interface
+    app.py            Streamlit shopping interface
     catalog.py        Simulated catalogue loader and validation
     events.py         Session-only event tracking
     profiles.py       Simulated shopper profiles
