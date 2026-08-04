@@ -24,7 +24,7 @@ load_dotenv()
 # Client construction is deliberately lazy so importing this module is safe
 # when the app is running without a configured secret.
 API_KEY = os.getenv("GEMINI_API_KEY")
-MODEL = "gemini-3.5-flash-lite"
+MODEL = "gemini-3.1-flash-lite"
 client = None
 
 
